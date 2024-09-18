@@ -31,4 +31,5 @@ El código fuente de la aplicación está disponible en este repositorio. La apl
 video demostrativo de la aplicación en el siguiente enlace:
 - [Video ](https://drive.google.com/file/d/18ukojilC21MRqzUKAqaZV-xKFo-rzcRq/view?usp=sharing)
 
-## 📱 Imagen del Icono:  https://drive.google.com/file/d/1MSUjP3bI-Q4r4-yk9GBkHs3VDEA4OJyo/view?usp=sharing
+## 📱 Imagen del Icono: 
+- [icono](https://drive.google.com/file/d/1MSUjP3bI-Q4r4-yk9GBkHs3VDEA4OJyo/view?usp=sharing)
