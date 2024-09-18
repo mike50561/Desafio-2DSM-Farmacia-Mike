@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">farmacias-desafio</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="select_medicine">Seleccionar Medicamento</string>
+    <string name="order_summary">Resumen de la Orden</string>
+    <string name="purchase_history">Historial de Compras</string>
+    <string name="pharmacy_name">FARMACIA UDB MIKE</string>
+    <string name="mission">Misión: Utilizar la tecnología para transformar la experiencia de compra de medicamentos, ofreciendo una plataforma fácil de usar y eficiente.</string>
+    <string name="vision">Visión: Ser líderes en el sector farmacéutico y ofrecer un servicio personalizado que contribuya al bienestar de la comunidad.</string>
+    <string name="location">Ubicación: PQ5M+Q27, San Salvador, El Salvador.</string>
+    <string name="specialization">Especializados en medicamentos</string>
+    <string name="purchase_history_title">Historial de Compras</string>
+    <string name="view_purchase_history_button">Ver Historial de Compras</string>
+    <string name="order_summary_title">Resumen de la Orden</string>
+    <string name="total_order">Total: $0.00</string>
+    <string name="cancel_order_button">Cancelar Orden</string>
+    <string name="confirm_order_button">Confirmar Compra</string>
+    <string name="register_email_hint">Correo electrónico</string>
+    <string name="register_password_hint">Contraseña</string>
+    <string name="medicina_lista">Lista de Medicamentos de Alta Calidad</string>
+    <string name="view_order_button">Ver Orden</string>
+    <string name="medicina_nombre">Nombre del medicamento</string>
+    <string name="medicina_precio">Precio del medicamento</string>
+    <string name="fecha_compra">Fecha de la compra</string>
+    <string name="total_compra">Total: $0.00</string>
+    <string name="welcome">Bienvenidos a Nuestra Tienda Virtual Farmacia Mike</string>
+    <string name="welcomeregistrase">Regístrese para iniciar sesión</string>
+    <string name="vermedicamento">Ver Lista de Medicamentos</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="Medicamento">Medicamentos</string>
+    <string name="fecha">fecha compra</string>
+    <string name="historial">Historial de Compra</string>
+</resources>

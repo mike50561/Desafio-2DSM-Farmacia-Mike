@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226781019379",
+    "project_id": "desafio2-farmacia",
+    "storage_bucket": "desafio2-farmacia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226781019379:android:1cc8b8717f67690faecb86",
+        "android_client_info": {
+          "package_name": "www.udb.edu.sv.farmacias_desafio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUk8jDFWqnEYGoWX0twqQtulsyRpF4Zpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

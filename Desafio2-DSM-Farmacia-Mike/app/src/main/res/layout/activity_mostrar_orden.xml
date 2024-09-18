@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/titulo_orden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/order_summary_title"
+        android:textSize="29sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/marrón"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_orden"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1"
+        android:background="@drawable/estilorecycleview"
+        android:elevation="6dp"
+        android:padding="8dp"/>
+
+
+    <TextView
+        android:id="@+id/total_orden"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/total_order"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingTop="16dp"
+        android:layout_gravity="center"
+        android:textColor="@color/azul"/>
+
+
+    <Button
+        android:id="@+id/cancelar_orden_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel_order_button"
+        android:layout_marginTop="26dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/rojo"
+        android:textColor="@color/white"/>
+
+
+    <Button
+        android:id="@+id/confirmar_orden_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/confirm_order_button"
+        android:layout_marginTop="23dp"
+        android:backgroundTint="@color/teal_700"
+        android:textColor="@color/white"/>
+</LinearLayout>
