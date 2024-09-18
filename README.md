@@ -25,7 +25,6 @@ El código fuente de la aplicación está disponible en este repositorio. La apl
 
 ## 📄 Documento PDF
 - [Documento]( https://drive.google.com/file/d/1uyIJlQzTQ1AkIqRwFjF2dqvvuD-qaPbk/view?usp=sharing)
-
   
 ## 🎥 Enlace del Video
 video demostrativo de la aplicación en el siguiente enlace:
